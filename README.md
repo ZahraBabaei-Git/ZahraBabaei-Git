@@ -40,7 +40,7 @@
 
 ### 📂 Projects
 
-- BetBotPoker: A collaborative project focused on developing an intelligent poker bot. We’re using Python and AI techniques. Check out the project [here]([https://github.com/MorezOrg/BetBotPoker](https://github.com/Morez-Org/BetBotPoker.git)).
+- BetBotPoker: A collaborative project focused on developing an intelligent poker bot. We’re using Python and AI techniques. Check out the project [here](https://github.com/Morez-Org/BetBotPoker.git).
 
 #### 🚀 Project Features:
   - 🎮 AI-powered Poker Bot: The bot uses machine learning techniques to make intelligent decisions during poker games.
